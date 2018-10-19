@@ -61,7 +61,10 @@ int main() {
 5. Kondisi False, maka bandingkan nilai variable **B** dengan **C**
 6. kondisi True, maka bandingkan nilai variabel **C** dengan **D**
 
-**Flowchart Prgram Flowchart**
+
+**Program Flowchart**
+
+
 ![flowchart](https://github.com/iisamelia/praktikum2/blob/master/flowchart2.png)
 
 **code lengkap:**
